@@ -1,0 +1,14 @@
+{
+  "name": "pasta",
+  "version": "1.0.0",
+  "description": "meu segundo projeto Eu_no_mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Eu_no_mundo"
+  ],
+  "author": "Kayo Victor",
+  "license": "ISC"
+}
